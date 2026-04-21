@@ -12,7 +12,7 @@
 - ⚡ Focused on clean code, scalable architecture & performance  
 - 🗄️ Strong knowledge of SQL Server, database relationships & backend logic  
 - 🛠️ Tools: Visual Studio, Git, GitHub, Postman, SQL Server Management Studio  
-- 🎯 Goal: Become Senior .NET Full Stack Developer  
+- 🎯 Goal: become a Senior .NET Full Stack Developer at Microsoft
 
 ---
 
